@@ -21,8 +21,8 @@
 #  - http://smatch.sf.net
 # spatch is provided by the coccinelle package in ubuntu
 
-DEF_ARCH=arm
-DEF_CROSS_COMPILE=arm-linux-gnueabihf-
+DEF_ARCH=x86_64
+DEF_CROSS_COMPILE=
 DEF_BUILDTARGETS="zImage dtbs"
 
 # Default parameters
